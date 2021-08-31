@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ben Bar Zvi!](https://github.com/benbz1/)
+## Hi there 👋, I'm [Ben Bar Zvi!](https://github.com/benbz1/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-bar-zvi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/benbarzvi/)
 
